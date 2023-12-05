@@ -1,0 +1,7 @@
+name = "r2-form-upload"
+main = "src/index.ts"
+compatibility_date = "2023-11-21"
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "r2-form-upload"
